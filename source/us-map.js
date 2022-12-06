@@ -13,7 +13,6 @@ var spec = {
             format: {"type": "topojson", "feature": "states"}
         }
     ],
-
     projections: [
         {
             name: "projection",
